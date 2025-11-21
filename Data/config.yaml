@@ -1,0 +1,21 @@
+T: 17.0
+constant_scalar:
+  nu: 5.0e-05
+dataset_name: 2dHIT_nu=0.0001_n=512_T=16.0
+domian_size:
+- 6.283185307179586
+- 6.283185307179586
+dt: 0.01
+field_names:
+- vorticity
+n_files: 500
+n_spatial_dims: 2
+n_steps_per_file: 600
+spatial_resolution:
+- 512
+- 512
+statistics:
+  integral_timescale: 1.15829598903656
+  mean: 0. # -0.0005110643105581403
+  std: 2.263429641723633
+t0: 11.0
